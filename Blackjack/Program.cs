@@ -3,13 +3,13 @@
  * South Hills Username: [YOUR SOUTH HILLS USERNAME HERE]
  */
 
-namespace Blackjack
+namespace Blackjack;
+
+public class Program
 {
-    public class Program
+    public static void Main()
     {
-        public static void Main()
-        {
-            
-        }
+        
     }
 }
+
